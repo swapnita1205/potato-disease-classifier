@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Users/swapn/PycharmProjects/.idea/PycharmProjects.iml" filepath="D:/Users/swapn/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://D:/Users/swapn/Python-Django-Project/.idea/Python-Django-Project.iml" filepath="D:/Users/swapn/Python-Django-Project/.idea/Python-Django-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/potato-disease.iml" filepath="$PROJECT_DIR$/.idea/potato-disease.iml" />
+    </modules>
+  </component>
+</project>
